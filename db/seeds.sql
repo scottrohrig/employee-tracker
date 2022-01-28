@@ -70,5 +70,5 @@ VALUES
     ('Monica','Bellucci', 13, 3),
     ('Samuel','Delaney', 14, 3),
     ('John','Dryden',15, 4),
-    ('Samuel','Johnson',16, 4)
+    ('Samuel','Johnson',16, 4),
     ('Mary','Greeneburg',16, 4);
